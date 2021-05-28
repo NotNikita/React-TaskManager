@@ -11,8 +11,9 @@ gitclone https://github.com/NotNikita/React-TaskManager.git
 
 ## Usage
 
-First run JSON-server:
+First install dependencies run JSON-server:
 ```javascript
+npm install
 json-server --watch db.json --port 5000
 ```
 
